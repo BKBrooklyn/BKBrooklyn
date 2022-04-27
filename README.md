@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @BKBrooklyn
 - 👀 I’m interested in International Business, Programming.
-- 🌱 I’m currently learning Python, Machine Learning.
+- 🌱 I’m currently learning Python,R and Machine Learning.
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
