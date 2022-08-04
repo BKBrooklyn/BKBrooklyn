@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @BKBrooklyn
+- 👋 Hi, I’m @BKBrooklyn, Ph.D Student
 - 👀 I’m interested in International Business, Programming.
 - 🌱 I’m currently learning Python,R and Machine Learning.
 - 💞️ I’m looking to collaborate on ...
